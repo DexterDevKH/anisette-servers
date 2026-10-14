@@ -1,6 +1,10 @@
 {
     "servers": [
         {
+            "name": "Dexter's Server",
+            "address": "https://dexter-kh-server.onrender.com"
+        },
+        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
