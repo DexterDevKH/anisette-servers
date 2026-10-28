@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "Dexter's Server",
-            "address": "https://dexter-kh-server.onrender.com",
+            "address": "https://dexter-kh-server.onrender.com:6969",
             "kind": 2
         },
         {
