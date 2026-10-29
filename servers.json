@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "Dexter's Server",
-            "address": "https://dexter-kh-server.onrender.com",
+            "address": "https://cartwheel-sample-rimless.ngrok-free.dev",
             "kind": 2
         },
         {
