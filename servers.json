@@ -6,6 +6,16 @@
             "kind": 2
         },
         {
+            "name": "Dexter's Server Mac OS",
+            "address": "https://dexter-kh-server.onrender.com/?backend=macos",
+            "kind": 2
+        },
+        {
+            "name": "Dexter's Server Windows",
+            "address": "https://dexter-kh-server.onrender.com/v3/client_info?backend=windows",
+            "kind": 2
+        },
+        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io",
             "kind": 0
