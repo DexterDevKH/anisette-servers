@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "Dexter's Server",
-            "address": "https://anisette-server-rs.onrender.com/",
+            "address": "https://dexter-kh-server.onrender.com",
             "kind": 2
         },
         {
